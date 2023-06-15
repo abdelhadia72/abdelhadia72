@@ -2,4 +2,4 @@
 - 👀 I’m interested in programing 
 - 🌱 I’m currently studient at alx africa
 - 💞️ I’m looking for some one who can 
-- 📫 How to reach me **🔒 locked now **
+- 📫 How to reach me 🔒**locked now**
