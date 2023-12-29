@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abdelhadi Bousaadah
-- 👀 I’m interested in programming.
-- 🌱 I’m currently studying at Alx Africa.
-- 💞️ I’m looking for someone who can collaborate on coding projects.
-- 📫 How to reach me 🔒**locked now**
+- ### 👋 Hi, I’m Abdelhadi Bousaadah.
+- 👨‍💻 Passionate about programming and creating digital wonders.
+- 📚 Currently on a learning journey in software engineering, honing my skills.
+- 🤝 I'm on the lookout for like-minded individuals to collaborate on exciting coding projects.
+- 📬 Reach out to me at abdelhadi.bousaadah@gmail.com, and let's create something amazing!
