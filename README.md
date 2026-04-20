@@ -1,5 +1,1 @@
-- ### 👋 Hi, I’m Abdelhadi Bousaadah.
-- 👨‍💻 Passionate about programming and creating digital wonders.
-- 📚 Currently on a learning journey in software engineering, honing my skills.
-- 🤝 I'm on the lookout for like-minded individuals to collaborate on exciting coding projects.
-- 📬 Reach out to me at abdelhadi.bousaadah@gmail.com, and let's create something amazing!
+Hey
